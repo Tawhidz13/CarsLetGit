@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CarsLet\Data Layer\bin\Debug\Data Layer.dll.config
+C:\Users\user\source\repos\CarsLet\Data Layer\bin\Debug\Data Layer.dll
+C:\Users\user\source\repos\CarsLet\Data Layer\bin\Debug\Data Layer.pdb
+C:\Users\user\source\repos\CarsLet\Data Layer\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\CarsLet\Data Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\CarsLet\Data Layer\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\CarsLet\Data Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\CarsLet\Data Layer\obj\Debug\Data Layer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CarsLet\Data Layer\obj\Debug\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarsLet\Data Layer\obj\Debug\Data Layer.csproj.CopyComplete
+C:\Users\user\source\repos\CarsLet\Data Layer\obj\Debug\Data Layer.dll
+C:\Users\user\source\repos\CarsLet\Data Layer\obj\Debug\Data Layer.pdb
+C:\Users\user\source\repos\CarsLet\Data Layer\bin\Debug\Entity Layer New.dll
+C:\Users\user\source\repos\CarsLet\Data Layer\bin\Debug\Entity Layer New.pdb

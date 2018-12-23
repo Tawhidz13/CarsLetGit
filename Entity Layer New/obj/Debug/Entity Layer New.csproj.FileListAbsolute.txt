@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\CarsLet\Entity Layer New\obj\Debug\Entity Layer New.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarsLet\Entity Layer New\bin\Debug\Entity Layer New.dll
+C:\Users\user\source\repos\CarsLet\Entity Layer New\bin\Debug\Entity Layer New.pdb
+C:\Users\user\source\repos\CarsLet\Entity Layer New\obj\Debug\Entity Layer New.dll
+C:\Users\user\source\repos\CarsLet\Entity Layer New\obj\Debug\Entity Layer New.pdb

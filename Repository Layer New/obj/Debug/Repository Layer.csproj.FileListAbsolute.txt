@@ -1,0 +1,19 @@
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Repository Layer New.dll.config
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Repository Layer New.dll
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Repository Layer New.pdb
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Data Layer.dll
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Entity Layer New.dll
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Interface Layer New.dll
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Data Layer.pdb
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Data Layer.dll.config
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Entity Layer New.pdb
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\Interface Layer New.pdb
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\CarsLet\Repository Layer New\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\CarsLet\Repository Layer New\obj\Debug\Repository Layer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CarsLet\Repository Layer New\obj\Debug\Repository Layer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarsLet\Repository Layer New\obj\Debug\Repository Layer.csproj.CopyComplete
+C:\Users\user\source\repos\CarsLet\Repository Layer New\obj\Debug\Repository Layer New.dll
+C:\Users\user\source\repos\CarsLet\Repository Layer New\obj\Debug\Repository Layer New.pdb

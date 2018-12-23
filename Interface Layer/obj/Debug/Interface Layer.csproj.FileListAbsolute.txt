@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\CarsLet\Interface Layer\bin\Debug\Interface Layer.dll
+C:\Users\user\source\repos\CarsLet\Interface Layer\bin\Debug\Interface Layer.pdb
+C:\Users\user\source\repos\CarsLet\Interface Layer\bin\Debug\Entity Layer.dll
+C:\Users\user\source\repos\CarsLet\Interface Layer\bin\Debug\Entity Layer.pdb
+C:\Users\user\source\repos\CarsLet\Interface Layer\bin\Debug\Entity Layer.dll.config
+C:\Users\user\source\repos\CarsLet\Interface Layer\obj\Debug\Interface Layer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CarsLet\Interface Layer\obj\Debug\Interface Layer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarsLet\Interface Layer\obj\Debug\Interface Layer.csproj.CopyComplete
+C:\Users\user\source\repos\CarsLet\Interface Layer\obj\Debug\Interface Layer.dll
+C:\Users\user\source\repos\CarsLet\Interface Layer\obj\Debug\Interface Layer.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\CarsLet\Entity Layer\bin\Debug\Entity Layer.dll.config
+C:\Users\user\source\repos\CarsLet\Entity Layer\bin\Debug\Entity Layer.dll
+C:\Users\user\source\repos\CarsLet\Entity Layer\bin\Debug\Entity Layer.pdb
+C:\Users\user\source\repos\CarsLet\Entity Layer\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\CarsLet\Entity Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\CarsLet\Entity Layer\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\CarsLet\Entity Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\CarsLet\Entity Layer\obj\Debug\Entity Layer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarsLet\Entity Layer\obj\Debug\Entity Layer.csproj.CopyComplete
+C:\Users\user\source\repos\CarsLet\Entity Layer\obj\Debug\Entity Layer.dll
+C:\Users\user\source\repos\CarsLet\Entity Layer\obj\Debug\Entity Layer.pdb
